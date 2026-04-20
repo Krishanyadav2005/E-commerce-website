@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "1",
+    "name": "Wireless Headphones",
+    "description": "High-quality wireless headphones with noise cancellation and 30-hour battery life. Perfect for music lovers and professionals.",
+    "price": 100,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500"
+  },
+  {
+    "_id": "2",
+    "name": "Smart Watch",
+    "description": "Feature-rich smartwatch with fitness tracking, heart rate monitor, and smartphone notifications. Water-resistant design.",
+    "price": 250,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500"
+  },
+  {
+    "_id": "3",
+    "name": "Laptop Stand",
+    "description": "Ergonomic aluminum laptop stand that improves posture and increases desk space. Adjustable height and angle.",
+    "price": 50,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500"
+  },
+  {
+    "_id": "4",
+    "name": "Mechanical Keyboard",
+    "description": "Premium mechanical keyboard with RGB backlighting and tactile switches. Perfect for gaming and typing.",
+    "price": 150,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500"
+  },
+  {
+    "_id": "5",
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with precision tracking and long battery life. Comfortable for extended use.",
+    "price": 50,
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500"
+  },
+  {
+    "_id": "6",
+    "name": "USB-C Hub",
+    "description": "Multi-port USB-C hub with HDMI, USB 3.0, and SD card reader. Expand your laptop connectivity.",
+    "price": 60,
+    "image": "https://images.unsplash.com/photo-1625842268584-8f3296236761?w=500"
+  },
+  {
+    "_id": "7",
+    "name": "Webcam HD",
+    "description": "1080p HD webcam with autofocus and built-in microphone. Perfect for video calls and streaming.",
+    "price": 80,
+    "image": "https://images.unsplash.com/photo-1587825143138-344aafc3d1c8?w=500"
+  },
+  {
+    "_id": "8",
+    "name": "Desk Lamp",
+    "description": "LED desk lamp with adjustable brightness and color temperature. Modern design with USB charging port.",
+    "price": 35,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500"
+  }
+]
